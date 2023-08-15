@@ -6,11 +6,11 @@
 
 ссылка на репозиторий https://github.com/VladislavSerduykov/mesto-full-project
 
-IP-адресс сервера 84.201.133.63
+IP 84.201.133.63
 
-Ссылка на сайт https://vladislav.student.nomoreparties.co/
+Frontend https://vladislav.student.nomoreparties.co/
 
-Ссылка на сервер https://api.vladislav.student.nomoreparties.co/
+Backend https://api.vladislav.student.nomoreparties.co/
 
 Тестирование падения сервера
 
