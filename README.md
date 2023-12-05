@@ -6,8 +6,6 @@
 
 ссылка на репозиторий https://github.com/VladislavSerduykov/mesto-full-project
 
-IP 84.201.133.63
-
 Frontend https://vladislav.student.nomoreparties.co/
 
 Backend https://api.vladislav.student.nomoreparties.co/
